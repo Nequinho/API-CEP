@@ -1,0 +1,10 @@
+.divCadastro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.API{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
